@@ -1,0 +1,78 @@
+{
+ "@context": "/api/contexts/LeaderBoard",
+ "@id": "/api/scores",
+ "@type": "hydra:Collection",
+ "hydra:member": [
+   {
+     "@id": "/api/scores/1",
+     "@type": "LeaderBoard",
+     "id": 1,
+     "email": "rogerabit@gmail.com",
+     "pseudo": "Dr Carot",
+     "lastname": "Rabbit",
+     "firstname": "Roger",
+     "score": "100000"
+   },
+   {
+     "@id": "/api/scores/2",
+     "@type": "LeaderBoard",
+     "id": 2,
+     "email": "ducdaffy@gmail.com",
+     "pseudo": "Dédé",
+     "lastname": "Duck",
+     "firstname": "Daffy",
+     "score": "200000"
+   },
+   {
+    "@id": "/api/scores/3",
+     "@type": "LeaderBoard",
+     "id": 3,
+     "email": "riri@gmail.com",
+     "pseudo": "small1",
+     "lastname": "riri",
+     "firstname": "",
+     "score": "300000"
+   },
+   {
+    "@id": "/api/scores/4",
+     "@type": "LeaderBoard",
+     "id": 4,
+     "email": "fifi@gmail.com",
+     "pseudo": "small2",
+     "lastname": "fifi",
+     "firstname": "",
+     "score": "400000"
+   },
+   {
+    "@id": "/api/scores/5",
+     "@type": "LeaderBoard",
+     "id": 5,
+     "email": "loulou@gmail.com",
+     "pseudo": "small3",
+     "lastname": "loulou",
+     "firstname": "",
+     "score": "500000"
+   },
+   {
+    "@id": "/api/scores/6",
+     "@type": "LeaderBoard",
+     "id": 6,
+     "email": "picsou@gmail.com",
+     "pseudo": "unclepic",
+     "lastname": "picsou",
+     "firstname": "uncle",
+     "score": "600000"
+   },
+   {
+    "@id": "/api/scores/7",
+     "@type": "LeaderBoard",
+     "id": 7,
+     "email": "ducdonald@gmail.com",
+     "pseudo": "simplemind",
+     "lastname": "Duck",
+     "firstname": "Donald",
+     "score": "700000"
+   }
+],
+ "hydra:totalItems" : 7
+}

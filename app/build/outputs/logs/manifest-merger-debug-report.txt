@@ -1,0 +1,251 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+MERGED from [com.android.databinding:adapters:3.3.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/adapters-3.3.1.aar/43d18338656005ee62b2b81da1f3b486/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.3.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/library-3.3.1.aar/9452e0661e21db03037b2684d74a45d5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0.aar/32a75bd6bc0225b5cb60473bc3a1cd07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dd420b68bcf9cde5bea05e439188b284/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/402910213729c75e252639fe9bdbc78f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gedeon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/04e3fd0a7a0833f55ce375abc6618cd3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80bd0f82e6954762a1c37aa819750e42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08a6f1552452999d56ab0ddcb48f7f32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7d1b734b7e23ee91c73993706e5afb69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b219f28d4fa199a48f6703840de3b6f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b539ee3dc57146b4c1b9f8b3bdc9ad64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a5dc853c9835f6596430394db0f98061/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/97249b66a99c14a15bf49b138ed06b83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30a55b598790a5d41d36b8f5a8d3dc4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/26c3c61fb1a038508489398d267d3921/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/34ba6002805cb5849f6fa69a7745c482/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/db3a8bafbe9c870070eb7b0c9a53dff4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6f0a202d6dc97e77b2d74ebf691defce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b95077830ea048e01600c713c08656a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9db07019784624348e11c8e6185e39eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cda4780b2a289954244a4d6e7b1b495/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ac95248523f0924f0fb7cec799db4ea9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b111e02ab3103416bf0d2de36c71f2a3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/16218b014733c831d2e81ffa7ea2d2d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/10b8eede86caabaf094eb2b63c029bf5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/c6072265eda008f911c08bb28d517452/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/51f8e38eb76ec60563ef93417040eaf1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/36c3f6e1c9dbc7f466a262fc9832b8d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/098dbe513e17cf2db7e00619e7495e7c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b16cab4dfbd9abc5b129ebfdf4f1fa1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5fb0e1745762a51c5f39d1997d551e91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7c6d5a84babddb432767d5f7c7b4eb63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bda7b889920065f2b0c0d7808639d396/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ccf985520e8e580c802fbe7c53bc268/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+	package
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-70:12
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-69:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gedeon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/04e3fd0a7a0833f55ce375abc6618cd3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gedeon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/04e3fd0a7a0833f55ce375abc6618cd3/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cda4780b2a289954244a4d6e7b1b495/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cda4780b2a289954244a4d6e7b1b495/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b111e02ab3103416bf0d2de36c71f2a3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b111e02ab3103416bf0d2de36c71f2a3/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cda4780b2a289954244a4d6e7b1b495/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:label
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-45
+	android:launchMode
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:36:13-53
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-49
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:40:9-52:20
+	android:parentActivityName
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:43:13-63
+	android:label
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:42:13-58
+	android:theme
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:41:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:13-47:56
+	android:value
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:17-54
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:17-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:27-74
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:57:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:64:13-66:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:17-83
+	android:name
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:65:25-81
+uses-sdk
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.3.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/adapters-3.3.1.aar/43d18338656005ee62b2b81da1f3b486/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.3.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/adapters-3.3.1.aar/43d18338656005ee62b2b81da1f3b486/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/library-3.3.1.aar/9452e0661e21db03037b2684d74a45d5/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/library-3.3.1.aar/9452e0661e21db03037b2684d74a45d5/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0.aar/32a75bd6bc0225b5cb60473bc3a1cd07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/preference-v7-28.0.0.aar/32a75bd6bc0225b5cb60473bc3a1cd07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dd420b68bcf9cde5bea05e439188b284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dd420b68bcf9cde5bea05e439188b284/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/402910213729c75e252639fe9bdbc78f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/402910213729c75e252639fe9bdbc78f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gedeon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/04e3fd0a7a0833f55ce375abc6618cd3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/gedeon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/04e3fd0a7a0833f55ce375abc6618cd3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80bd0f82e6954762a1c37aa819750e42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80bd0f82e6954762a1c37aa819750e42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08a6f1552452999d56ab0ddcb48f7f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08a6f1552452999d56ab0ddcb48f7f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7d1b734b7e23ee91c73993706e5afb69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7d1b734b7e23ee91c73993706e5afb69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b219f28d4fa199a48f6703840de3b6f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b219f28d4fa199a48f6703840de3b6f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b539ee3dc57146b4c1b9f8b3bdc9ad64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b539ee3dc57146b4c1b9f8b3bdc9ad64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a5dc853c9835f6596430394db0f98061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a5dc853c9835f6596430394db0f98061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/97249b66a99c14a15bf49b138ed06b83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/97249b66a99c14a15bf49b138ed06b83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30a55b598790a5d41d36b8f5a8d3dc4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30a55b598790a5d41d36b8f5a8d3dc4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/26c3c61fb1a038508489398d267d3921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/26c3c61fb1a038508489398d267d3921/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/34ba6002805cb5849f6fa69a7745c482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/34ba6002805cb5849f6fa69a7745c482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/db3a8bafbe9c870070eb7b0c9a53dff4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/db3a8bafbe9c870070eb7b0c9a53dff4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6f0a202d6dc97e77b2d74ebf691defce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6f0a202d6dc97e77b2d74ebf691defce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b95077830ea048e01600c713c08656a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b95077830ea048e01600c713c08656a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9db07019784624348e11c8e6185e39eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9db07019784624348e11c8e6185e39eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cda4780b2a289954244a4d6e7b1b495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9cda4780b2a289954244a4d6e7b1b495/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ac95248523f0924f0fb7cec799db4ea9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ac95248523f0924f0fb7cec799db4ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b111e02ab3103416bf0d2de36c71f2a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b111e02ab3103416bf0d2de36c71f2a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/16218b014733c831d2e81ffa7ea2d2d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/16218b014733c831d2e81ffa7ea2d2d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/10b8eede86caabaf094eb2b63c029bf5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/10b8eede86caabaf094eb2b63c029bf5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/c6072265eda008f911c08bb28d517452/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/c6072265eda008f911c08bb28d517452/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/51f8e38eb76ec60563ef93417040eaf1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/51f8e38eb76ec60563ef93417040eaf1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/36c3f6e1c9dbc7f466a262fc9832b8d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/36c3f6e1c9dbc7f466a262fc9832b8d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/098dbe513e17cf2db7e00619e7495e7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/098dbe513e17cf2db7e00619e7495e7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b16cab4dfbd9abc5b129ebfdf4f1fa1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b16cab4dfbd9abc5b129ebfdf4f1fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5fb0e1745762a51c5f39d1997d551e91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/5fb0e1745762a51c5f39d1997d551e91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7c6d5a84babddb432767d5f7c7b4eb63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7c6d5a84babddb432767d5f7c7b4eb63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bda7b889920065f2b0c0d7808639d396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/bda7b889920065f2b0c0d7808639d396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ccf985520e8e580c802fbe7c53bc268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/gedeon/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0ccf985520e8e580c802fbe7c53bc268/AndroidManifest.xml:20:5-44
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /media/gedeon/SAVE/_FormationAndroid2019/Exercices_git/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] /home/gedeon/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.8.5.aar/788e101c19a0f4363af9cdedb787a99a/AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/gedeon/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/6d0f7d6945cd70a03d38eb8b8ac1bbca/AndroidManifest.xml:24:13-83
